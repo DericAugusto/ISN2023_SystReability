@@ -1,0 +1,79 @@
+13 mars 2023 13:04:51 [main] INFO: ###############################################################
+13 mars 2023 13:04:51 [main] INFO: GRIF version 2021.33 (13.33.0.0)  GRIF (c) TotalEnergies 
+13 mars 2023 13:04:51 [main] INFO: Module : Petri12
+13 mars 2023 13:04:51 [main] CONFIG: OS : Windows 10
+13 mars 2023 13:04:51 [main] CONFIG: Java Version : 11.0.5
+13 mars 2023 13:04:51 [main] CONFIG: Java Arch : 64 bits
+13 mars 2023 13:04:51 [main] CONFIG: PATH : C:\Program Files\Total\GRIF 2021.33\Simulation\..\Bin\Lib;C:\tools\ruby31\bin;C:\SIMULIA\Commands;C:\Program Files\Microsoft MPI\Bin\;C:\ProgramData\Miniconda3;C:\ProgramData\Miniconda3\Library\mingw-w64\bin;C:\ProgramData\Miniconda3\Library\usr\bin;C:\ProgramData\Miniconda3\Library\bin;C:\ProgramData\Miniconda3\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files\MATLAB\R2022a\runtime\win64;C:\Program Files\MATLAB\R2022a\bin;C:\Program Files\MongoDB\Server\4.2\bin;C:\ProgramData\npmglobal;C:\Program Files\Mosquitto;C:\Program Files\MiKTeX 2.9\miktex\bin\x64;C:\Program Files (x86)\FreeFem++;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Puppet Labs\Puppet\bin;C:\ProgramData\MATLAB\SupportPackages\R2022a\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\bin;C:\ProgramData\MATLAB\SupportPackages\R2021a\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\bin;C:\Users\Administrateur\AppData\Local\Microsoft\WindowsApps;C:\altera\15.0\modelsim_ase\win32aloem;C:\Users\Administrateur\AppData\Roaming\npm;C:\Users\richar454u\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Total\GRIF 2021.33\Simulation\..\Bin\Java\bin
+13 mars 2023 13:04:51 [main] CONFIG: java.library.path : ../Tools/Moca14;../Lib
+13 mars 2023 13:04:51 [main] CONFIG: Max memory : 4096 MB
+13 mars 2023 13:04:51 [main] CONFIG: Available memory (init): 4083 MB
+13 mars 2023 13:04:51 [main] CONFIG: Current : C:\Program Files\Total\GRIF 2021.33\Bin\Petri12\.
+13 mars 2023 13:04:51 [main] CONFIG: User : richar454u
+13 mars 2023 13:04:51 [main] CONFIG: Host : bi-fdd-f-w157
+13 mars 2023 13:04:56 [main] CONFIG: Home : C:\Users\richar454u
+13 mars 2023 13:04:56 [main] CONFIG: CorpHome : null
+13 mars 2023 13:04:56 [main] CONFIG: GMT Time : 2023/03/13 12:04:56 GMT
+13 mars 2023 13:04:56 [main] CONFIG: Local Time : 2023/03/13 13:04:56 CET
+13 mars 2023 13:04:56 [main] CONFIG: DPI coef : 1.0
+13 mars 2023 13:04:56 [main] CONFIG: Screen 0:\Display0:[x=0,y=0,width=1920,height=1080] > default
+13 mars 2023 13:04:56 [main] INFO: UserHome : C:\Users\richar454u\GRIF\2021\Petri12
+13 mars 2023 13:04:56 [main] INFO: ModulePath : .
+13 mars 2023 13:04:56 [main] INFO: TmpPath : C:\Temp\GRIF2021
+13 mars 2023 13:04:56 [AWT-EventQueue-0] CONFIG: Load font EmojiOne
+13 mars 2023 13:04:58 [AWT-EventQueue-0] CONFIG: Load font FreeMono
+13 mars 2023 13:04:59 [AWT-EventQueue-0] CONFIG: Proxy Configuration: Mode=JAVA 
+13 mars 2023 13:04:59 [AWT-EventQueue-0] CONFIG: Hasp Net 100.64.212.180
+13 mars 2023 13:04:59 [AWT-EventQueue-0] INFO: Loading HASPJava_x64 ...
+13 mars 2023 13:04:59 [AWT-EventQueue-0] INFO: C:\Program Files\Total\GRIF 2021.33\Bin\Lib\HASPJava_x64.dll loaded
+13 mars 2023 13:04:59 [AWT-EventQueue-0] INFO: Loading hasp_windows_x64_89115 ...
+13 mars 2023 13:04:59 [AWT-EventQueue-0] INFO: C:\Program Files\Total\GRIF 2021.33\Bin\Lib\hasp_windows_x64_89115.dll loaded
+13 mars 2023 13:04:59 [AWT-EventQueue-0] CONFIG: HaspID=1037783020
+13 mars 2023 13:04:59 [AWT-EventQueue-0] CONFIG: License.Type=STANDARD
+13 mars 2023 13:04:59 [AWT-EventQueue-0] INFO: Plugin found beta-61508
+13 mars 2023 13:04:59 [AWT-EventQueue-0] INFO: Plugin found calibrated-risk-graph
+13 mars 2023 13:04:59 [AWT-EventQueue-0] INFO: Plugin found db-cst
+13 mars 2023 13:04:59 [AWT-EventQueue-0] INFO: Plugin found import-excel
+13 mars 2023 13:04:59 [AWT-EventQueue-0] INFO: Plugin found srs-req-lopa
+13 mars 2023 13:04:59 [AWT-EventQueue-0] INFO: Plugin found SATODEV.test
+13 mars 2023 13:04:59 [AWT-EventQueue-0] CONFIG: add to classpath : jar C:\Program Files\Total\GRIF 2021.33\Bin\Lib\grif-monitoring.jar
+13 mars 2023 13:04:59 [AWT-EventQueue-0] CONFIG: Load libs for plugin grif-monitoring
+13 mars 2023 13:05:00 [AWT-EventQueue-0] INFO: Plugin found grif-monitoring
+13 mars 2023 13:05:00 [AWT-EventQueue-0] CONFIG: db-cst=1.1.0.0
+13 mars 2023 13:05:00 [AWT-EventQueue-0] INFO: Plugin loaded db-cst(1.1.0.0) in 5ms
+13 mars 2023 13:05:00 [AWT-EventQueue-0] CONFIG: srs-req-lopa=1.0.0.0
+13 mars 2023 13:05:00 [AWT-EventQueue-0] INFO: Plugin loaded srs-req-lopa(1.0.0.0) in 1ms
+13 mars 2023 13:05:00 [AWT-EventQueue-0] INFO: Plugin loaded grif-monitoring(1.0.0.1) in 8ms
+13 mars 2023 13:05:00 [AWT-EventQueue-0] INFO: The beta-61508 plugin is not compatible with current version
+13 mars 2023 13:05:00 [AWT-EventQueue-0] INFO: The calibrated-risk-graph plugin is not compatible with current version
+13 mars 2023 13:05:00 [AWT-EventQueue-0] INFO: The import-excel plugin is not compatible with current version
+13 mars 2023 13:05:00 [AWT-EventQueue-0] INFO: The SATODEV.test plugin is not compatible with current version
+13 mars 2023 13:05:01 [Thread-1] INFO: Spring context for plugin 'grif-monitoring' loaded in 942ms
+13 mars 2023 13:05:01 [AWT-EventQueue-0] WARNING: configMoca already defined in action map for action null
+13 mars 2023 13:05:01 [AWT-EventQueue-0] WARNING: autobatch already defined in action map for action null
+13 mars 2023 13:05:02 [AWT-EventQueue-0] WARNING: overriding menu Réseaux de Petri by Cvt.ApplActionsCreator$3@471ad62f
+13 mars 2023 13:05:02 [AWT-EventQueue-0] WARNING: overriding menu Mode by Cvt.ApplActionsCreator$2@32294113
+13 mars 2023 13:05:02 [AWT-EventQueue-0] INFO: Module is initialized
+13 mars 2023 13:05:02 [AWT-EventQueue-0] INFO: Setting frame visible
+13 mars 2023 13:05:02 [AWT-EventQueue-0] INFO: Frame displayed on screen:\Display0
+13 mars 2023 13:05:02 [AWT-EventQueue-0] CONFIG: []
+13 mars 2023 13:05:02 [AWT-EventQueue-0] INFO: Application successfully started
+13 mars 2023 13:05:05 [pool-1-thread-1] CONFIG: Using proxy configuration Proxy Configuration: Mode=JAVA 
+13 mars 2023 13:05:06 [pool-1-thread-1] CONFIG: Using proxy configuration Proxy Configuration: Mode=JAVA 
+13 mars 2023 13:58:17 [AWT-EventQueue-0] WARNING: CmdCompute : no Destination Case
+13 mars 2023 14:53:59 [AWT-EventQueue-0] SEVERE: Tracer un arc entre une place et une transition uniquement.
+13 mars 2023 15:20:38 [AWT-EventQueue-0] SEVERE: Tracer un arc entre une place et une transition uniquement.
+13 mars 2023 16:11:39 [Préparation des calculs] SEVERE: Computation.ComputationException: nbenmarche -> definition:# : Définition incorrecte ou utilisant des données supprimées
+nbenmarche -> definition:# : Définition incorrecte ou utilisant des données supprimées
+
+	at Moca.Computation.MocaEngineManager.verify(MocaEngineManager.java:162)
+	at Moca.Computation.MocaEngineManager.createAction(MocaEngineManager.java:111)
+	at Computation.ComputeManager.createAction(ComputeManager.java:99)
+	at Computation.ComputeManager.createActionCompute(ComputeManager.java:131)
+	at Cvt.Cmd.CmdCompute.createActionCompute(CmdCompute.java:285)
+	at Moca.Computation.CmdComputeMoca.createAction(CmdComputeMoca.java:52)
+	at Cvt.Cmd.CmdCompute$CreateActionThread.run(CmdCompute.java:347)
+
+13 mars 2023 16:11:39 [Préparation des calculs] SEVERE: nbenmarche -> definition:#<undef> : Définition incorrecte ou utilisant des données supprimées
+13 mars 2023 16:11:39 [Préparation des calculs] SEVERE: nbenmarche -> definition:#<undef> : Définition incorrecte ou utilisant des données supprimées
+13 mars 2023 16:11:42 [AWT-EventQueue-0] WARNING: CmdCompute : Action is null

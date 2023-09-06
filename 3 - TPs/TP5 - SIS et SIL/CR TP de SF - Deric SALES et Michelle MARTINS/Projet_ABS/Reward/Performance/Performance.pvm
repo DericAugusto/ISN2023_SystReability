@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<class id="Mobius.RewardModels.pvs.PVInterface">
+	<int id="ClassVersion">1</int>
+	<class id="Mobius.BaseClasses.BaseInterfaceClass">
+		<int id="ClassVersion">3</int>
+		<string id="ModelName">Performance</string>
+		<class id="Mobius.RewardModels.pvs.PVInfo">
+			<int id="ClassVersion">3</int>
+			<class id="Mobius.BaseClasses.BaseInfoClass">
+				<int id="ClassVersion">2</int>
+			</class>
+			<string id="OutputDirectory">Reward\\Performance\\</string>
+			<string id="PVModelFileName">PerformancePVModel</string>
+			<string id="PVNodeFileName">PerformancePVNodes</string>
+			<string id="PVArchiveName">PerformancePV</string>
+			<vector id="IncludePath">
+				<string id="0">\\Atomic\\Modele_Dysfonctionnel\\Modele_DysfonctionnelSAN.h</string>
+			</vector>
+			<vector id="HeaderFileList">
+				<string id="0">Reward\\Performance\\PerformancePVNodes.h</string>
+				<string id="1">Reward\\Performance\\PerformancePVModel.h</string>
+			</vector>
+			<vector id="CodeFileList">
+				<string id="0">Reward\\Performance\\PerformancePVNodes.cpp</string>
+				<string id="1">Reward\\Performance\\PerformancePVModel.cpp</string>
+			</vector>
+			<int id="NumVars">0</int>
+			<string id="TopModelName">Modele_Dysfonctionnel</string>
+			<string id="ModelName">Modele_Dysfonctionnel</string>
+		</class>
+		<class id="PVEditor">
+			<int id="ClassVersion">2</int>
+			<string id="TheInterfaceName">Modele_Dysfonctionnel</string>
+			<boolean id="SkipAcceptPopup">false</boolean>
+			<class id="Mobius.BaseClasses.BaseEditorClass">
+				<int id="ClassVersion">3</int>
+				<boolean id="HasPanel">false</boolean>
+				<vector id="LocalGlobalNamesList">
+				</vector>
+				<vector id="LocalGlobalTypesList">
+				</vector>
+				<boolean id="DisplayToolTips">true</boolean>
+			</class>
+		</class>
+		<boolean id="Valid">true</boolean>
+	</class>
+</class>

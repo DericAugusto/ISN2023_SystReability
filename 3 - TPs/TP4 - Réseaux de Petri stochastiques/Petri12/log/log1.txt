@@ -1,0 +1,69 @@
+23 juin 2022 15:24:52 [main] INFO: ###############################################################
+23 juin 2022 15:24:52 [main] INFO: GRIF version 2021.33 (13.33.0.0)  GRIF (c) TotalEnergies 
+23 juin 2022 15:24:52 [main] INFO: Module : Petri12
+23 juin 2022 15:24:52 [main] CONFIG: OS : Windows 10
+23 juin 2022 15:24:52 [main] CONFIG: Java Version : 11.0.5
+23 juin 2022 15:24:52 [main] CONFIG: Java Arch : 64 bits
+23 juin 2022 15:24:52 [main] CONFIG: PATH : C:\Program Files\Total\GRIF 2021.33\Bin\GRIF-Launcher\\..\Lib;C:\SIMULIA\Commands;C:\Program Files\Microsoft MPI\Bin\;C:\ProgramData\Miniconda3;C:\ProgramData\Miniconda3\Library\mingw-w64\bin;C:\ProgramData\Miniconda3\Library\usr\bin;C:\ProgramData\Miniconda3\Library\bin;C:\ProgramData\Miniconda3\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files\MATLAB\R2022a\runtime\win64;C:\Program Files\MATLAB\R2022a\bin;C:\Program Files\MongoDB\Server\4.2\bin;C:\ProgramData\npmglobal;C:\Program Files\Mosquitto;C:\Program Files\MiKTeX 2.9\miktex\bin\x64;C:\Program Files\Puppet Labs\Puppet\bin;C:\Program Files (x86)\FreeFem++;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\MATLAB\SupportPackages\R2022a\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\bin;C:\ProgramData\MATLAB\SupportPackages\R2021a\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\bin;C:\Users\Administrateur\AppData\Local\Microsoft\WindowsApps;C:\altera\15.0\modelsim_ase\win32aloem;C:\Users\Administrateur\AppData\Roaming\npm;C:\Users\Administrateur\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jre1.8.0_271\bin
+23 juin 2022 15:24:52 [main] CONFIG: java.library.path : ../Tools/Moca14;../Lib
+23 juin 2022 15:24:52 [main] CONFIG: Max memory : 2034 MB
+23 juin 2022 15:24:52 [main] CONFIG: Available memory (init): 2021 MB
+23 juin 2022 15:24:52 [main] CONFIG: Current : C:\Program Files\Total\GRIF 2021.33\Bin\Petri12\.
+23 juin 2022 15:24:52 [main] CONFIG: User : Administrateur
+23 juin 2022 15:24:52 [main] CONFIG: Host : bi-su-testAdrie
+23 juin 2022 15:24:52 [main] CONFIG: Home : C:\Users\Administrateur
+23 juin 2022 15:24:52 [main] CONFIG: CorpHome : null
+23 juin 2022 15:24:52 [main] CONFIG: GMT Time : 2022/06/23 13:24:52 GMT
+23 juin 2022 15:24:52 [main] CONFIG: Local Time : 2022/06/23 15:24:52 CEST
+23 juin 2022 15:24:53 [main] CONFIG: DPI coef : 1.0
+23 juin 2022 15:24:53 [main] CONFIG: Screen 0:\Display0:[x=0,y=0,width=1580,height=947] > default
+23 juin 2022 15:24:53 [main] INFO: UserHome : C:\Users\Administrateur\GRIF\2021\Petri12
+23 juin 2022 15:24:53 [main] INFO: ModulePath : .
+23 juin 2022 15:24:53 [main] INFO: TmpPath : C:\Temp\GRIF2021
+23 juin 2022 15:24:54 [AWT-EventQueue-0] CONFIG: Load font EmojiOne
+23 juin 2022 15:25:01 [AWT-EventQueue-0] CONFIG: Load font FreeMono
+23 juin 2022 15:25:06 [AWT-EventQueue-0] SEVERE: C:\Users\Administrateur\GRIF\2021\Petri12\Petri12.ini (Le fichier spécifié est introuvable)
+23 juin 2022 15:25:06 [AWT-EventQueue-0] CONFIG: Proxy Configuration: Mode=JAVA 
+23 juin 2022 15:25:06 [AWT-EventQueue-0] CONFIG: Hasp Local
+23 juin 2022 15:25:06 [AWT-EventQueue-0] INFO: Loading HASPJava_x64 ...
+23 juin 2022 15:25:07 [AWT-EventQueue-0] INFO: C:\Program Files\Total\GRIF 2021.33\Bin\Lib\HASPJava_x64.dll loaded
+23 juin 2022 15:25:07 [AWT-EventQueue-0] INFO: Loading hasp_windows_x64_89115 ...
+23 juin 2022 15:25:07 [AWT-EventQueue-0] INFO: C:\Program Files\Total\GRIF 2021.33\Bin\Lib\hasp_windows_x64_89115.dll loaded
+23 juin 2022 15:25:08 [AWT-EventQueue-0] WARNING: Login failed  code=7 Sentinel protection key no longer available
+Hasp library may be missing in java.library.path=../Tools/Moca14;../Lib
+23 juin 2022 15:25:08 [AWT-EventQueue-0] CONFIG: HaspID=1
+23 juin 2022 15:25:08 [AWT-EventQueue-0] CONFIG: License.Type=STANDARD
+23 juin 2022 15:25:08 [AWT-EventQueue-0] CONFIG: Console Mode
+23 juin 2022 15:25:09 [AWT-EventQueue-0] INFO: Plugin found beta-61508
+23 juin 2022 15:25:09 [AWT-EventQueue-0] INFO: Plugin found calibrated-risk-graph
+23 juin 2022 15:25:09 [AWT-EventQueue-0] INFO: Plugin found db-cst
+23 juin 2022 15:25:09 [AWT-EventQueue-0] INFO: Plugin found import-excel
+23 juin 2022 15:25:09 [AWT-EventQueue-0] INFO: Plugin found srs-req-lopa
+23 juin 2022 15:25:09 [AWT-EventQueue-0] INFO: Plugin found SATODEV.test
+23 juin 2022 15:25:09 [AWT-EventQueue-0] CONFIG: add to classpath : jar C:\Program Files\Total\GRIF 2021.33\Bin\Lib\grif-monitoring.jar
+23 juin 2022 15:25:09 [AWT-EventQueue-0] CONFIG: Load libs for plugin grif-monitoring
+23 juin 2022 15:25:10 [AWT-EventQueue-0] INFO: Plugin found grif-monitoring
+23 juin 2022 15:25:10 [AWT-EventQueue-0] CONFIG: db-cst=1.1.0.0
+23 juin 2022 15:25:10 [AWT-EventQueue-0] INFO: Plugin loaded db-cst(1.1.0.0) in 5ms
+23 juin 2022 15:25:10 [AWT-EventQueue-0] CONFIG: srs-req-lopa=1.0.0.0
+23 juin 2022 15:25:10 [AWT-EventQueue-0] INFO: Plugin loaded srs-req-lopa(1.0.0.0) in 1ms
+23 juin 2022 15:25:10 [AWT-EventQueue-0] INFO: Plugin loaded grif-monitoring(1.0.0.1) in 18ms
+23 juin 2022 15:25:10 [AWT-EventQueue-0] INFO: The beta-61508 plugin is not compatible with current version
+23 juin 2022 15:25:10 [AWT-EventQueue-0] INFO: The calibrated-risk-graph plugin is not compatible with current version
+23 juin 2022 15:25:10 [AWT-EventQueue-0] INFO: The import-excel plugin is not compatible with current version
+23 juin 2022 15:25:10 [AWT-EventQueue-0] INFO: The SATODEV.test plugin is not compatible with current version
+23 juin 2022 15:25:12 [Thread-1] INFO: Spring context for plugin 'grif-monitoring' loaded in 1658ms
+23 juin 2022 15:25:16 [AWT-EventQueue-0] WARNING: configMoca already defined in action map for action null
+23 juin 2022 15:25:16 [AWT-EventQueue-0] WARNING: autobatch already defined in action map for action null
+23 juin 2022 15:25:17 [AWT-EventQueue-0] INFO: Module is initialized
+23 juin 2022 15:25:17 [AWT-EventQueue-0] WARNING: Aucune licence n'a été trouvée, le logiciel va passer en mode "démonstration".
+L'erreur remontée par le système de licences est : Login failed  code=7 Sentinel protection key no longer available
+23 juin 2022 15:25:17 [AWT-EventQueue-0] CONFIG: [-install.template.index, -exit]
+23 juin 2022 15:25:20 [pool-1-thread-1] CONFIG: Using proxy configuration Proxy Configuration: Mode=JAVA 
+23 juin 2022 15:25:21 [pool-1-thread-1] CONFIG: Using proxy configuration Proxy Configuration: Mode=JAVA 
+23 juin 2022 15:25:24 [reactor-http-nio-2] SEVERE: 503 SERVICE_UNAVAILABLE
+23 juin 2022 15:25:24 [reactor-http-nio-2] SEVERE: Content type 'text/html' not supported for bodyType=com.total.grifmonitoring.model.Connection
+23 juin 2022 15:25:24 [pool-1-thread-1] WARNING: Content type 'text/html' not supported for bodyType=com.total.grifmonitoring.model.Connection
+23 juin 2022 15:25:24 [pool-1-thread-1] CONFIG: grif-monitoring user 253705784 is filtered
+23 juin 2022 15:25:24 [AWT-EventQueue-0] INFO: Exiting ...
+23 juin 2022 15:25:24 [AWT-EventQueue-0] INFO: Exit

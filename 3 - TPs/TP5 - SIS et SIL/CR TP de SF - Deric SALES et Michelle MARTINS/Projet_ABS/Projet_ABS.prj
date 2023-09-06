@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ASCII"?>
+<models:Project xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:models="http://www.mobius.illinois.edu/projects" name="Projet_ABS" author="ferrei177u" creationDate="2023-05-04T19:22:50.146+0200" lastSavedVersion="2.5.9.201902201008">
+  <atomic key="Modele_Dysfonctionnel">
+    <value name="Modele_Dysfonctionnel" type="SAN Model"/>
+  </atomic>
+  <atomic key="Modele_Fonctionnel">
+    <value name="Modele_Fonctionnel" type="SAN Model"/>
+  </atomic>
+  <reward key="Performance">
+    <value name="Performance" category="Reward" type="Performance Variables Model"/>
+  </reward>
+</models:Project>

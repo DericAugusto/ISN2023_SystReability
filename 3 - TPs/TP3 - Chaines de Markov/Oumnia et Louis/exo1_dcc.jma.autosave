@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<!DOCTYPE JaGrif-Markov SYSTEM "file:/Dtd/MDoc.dtd">
+<JaGrif-Markov>
+	<dtd-version id="11" baseid="17" appl="13.33.0.0"/>
+	<license type="PROTEC" soc="UNIV LORRAINE" hash="1384616636" net="10" serial="1037783020" year="2023"/>
+	<gen>
+		<logprop name="name" value=""/>
+		<logprop name="date" value="08 March 2023"/>
+		<logprop name="version" value=""/>
+		<logprop name="pid" value=""/>
+		<logprop name="author" value="lachgar5u"/>
+		<logprop name="histo" value="13.33.0.0"/>
+		<logprop name="comment" value=""/>
+		<logprop name="file" value="O&#x003A;\\TPs\\SDF\\TP3\\ver2\\exo1_dcc.jma"/>
+	</gen>
+	<options>
+		<option key="Appl" id="LightBatch" value="false"/>
+		<option key="Appl" id="TrackModif" value="false"/>
+		<option key="Comment" id="RectPaintCfg" value="null,null,false,0,1"/>
+		<option key="Comment" id="TxtPaintCfg" value="SansSerif,-16776961,12,true,false,0.0,2,2,false"/>
+		<option key="CommentDyn" id="RectPaintCfg" value="null,-65536,true,0,1"/>
+		<option key="CommentDyn" id="TxtPaintCfg" value="SansSerif,-65536,10,true,false,0.0,2,2,false"/>
+		<option key="Courbe" id="Encadre" value="true"/>
+		<option key="Courbe" id="Geneencadre" value="false"/>
+		<option key="Courbe" id="Genesize" value="12.0"/>
+		<option key="Courbe" id="Styleaxesnames" value="true"/>
+		<option key="Courbe" id="Stylecoordsize" value="9"/>
+		<option key="Courbe" id="Stylegrid" value="true"/>
+		<option key="Courbe" id="Stylegridgraph" value="true"/>
+		<option key="Courbe" id="Stylelegende" value="true"/>
+		<option key="Courbe" id="Stylelegendsize" value="12"/>
+		<option key="Courbe" id="Stylepointssize" value="5"/>
+		<option key="Courbe" id="Styletransparency" value="false"/>
+		<option key="Courbe" id="Titlealign" value="CENTER"/>
+		<option key="Courbe" id="Titlesize" value="20.0"/>
+		<option key="Courbe" id="Transparency" value="true"/>
+		<option key="Digits" id="Format" value="1000.0 0.01 1 4 false true 1.0E-16 false|false,false,G,R,I,F,C,O,N,T,A,B"/>
+		<option key="Display" id="DefaultPgH" value="850"/>
+		<option key="Display" id="DefaultPgW" value="1200"/>
+		<option key="Display" id="Grid.Actived" value="false"/>
+		<option key="Display" id="Grid.Draw" value="false"/>
+		<option key="Display" id="Grid.Size" value="40"/>
+		<option key="Display" id="PreferredUnitRate" value="HOUR_1"/>
+		<option key="Display" id="PreferredUnitTime" value="HOUR"/>
+		<option key="Display" id="Reticule" value="true"/>
+		<option key="Document" id="Zoom" value="1.0"/>
+		<option key="Document" id="ZoomGlobal" value="false"/>
+		<option key="Element" id="Zoom" value="1.0"/>
+		<option key="Group" id="TxtPaintCfg" value="SansSerif,-16777216,12,false,false,0.0,2,2,false"/>
+		<option key="Mark" id="Avail" value="true"/>
+		<option key="Mark" id="Convergence" value="true"/>
+		<option key="Mark" id="DelayPhase" value="10.0"/>
+		<option key="Mark" id="DisplayNbr" value="2"/>
+		<option key="Mark" id="Dtratio" value="0.1"/>
+		<option key="Mark" id="DtratioAuto" value="true"/>
+		<option key="Mark" id="Eff" value="false"/>
+		<option key="Mark" id="Epsilon" value="1.0E-10"/>
+		<option key="Mark" id="EpsilonXPR" value="1.0E-9"/>
+		<option key="Mark" id="InitialAvail" value="0.0"/>
+		<option key="Mark" id="InitialEff" value="0.0"/>
+		<option key="Mark" id="InitialLbdEq" value="0.0"/>
+		<option key="Mark" id="LbdEq" value="false"/>
+		<option key="Mark" id="Multi" value="false"/>
+		<option key="Mark" id="NbStates" value="0"/>
+		<option key="Mark" id="Period" value=""/>
+		<option key="Mark" id="PeriodNbr" value="2"/>
+		<option key="Mark" id="PlotFile" value="plot.txt"/>
+		<option key="Mark" id="Print" value="TOUT"/>
+		<option key="Mark" id="SumAndAvg" value="false"/>
+		<option key="Mark" id="Times" value="from 0 to 8760 step 24"/>
+		<option key="Mark" id="Title" value="Default Title"/>
+		<option key="Mark" id="TypeAsympto" value="0"/>
+		<option key="Mark" id="UnAvail" value="true"/>
+		<option key="Mark" id="UuEff" value="false"/>
+		<option key="Mark" id="W" value="false"/>
+		<option key="Node" id="Desc" value="true"/>
+		<option key="Node" id="Effic" value="true"/>
+		<option key="Node" id="Name" value="true"/>
+		<option key="Node" id="Number" value="true"/>
+		<option key="Node" id="Proba" value="true"/>
+		<option key="Node" id="TxtPaintCfg" value="SansSerif,-16777216,10,false,false,0.0,1,1,false"/>
+		<option key="PanelEditLog.101" id="Cols" type="COL_FILTER" value="true,0x1x2x4x5x,0x0x64x0x0x"/>
+		<option key="PolyLink" id="Adjust.Alpha" value="15.0"/>
+		<option key="PolyLink" id="Adjust.Delta" value="30"/>
+		<option key="PolyLink" id="Adjust.Exclude" value="10"/>
+		<option key="PolyLink" id="Hide.Distance" value="10"/>
+		<option key="StateRep" id="TxtPaintCfg" value="SansSerif,-16777216,10,false,false,0.0,1,1,false"/>
+		<option key="Tool" id="DrawDesc" value="true"/>
+		<option key="Tool" id="DrawLabel" value="true"/>
+		<option key="Verif" id="Convergence" value="true"/>
+		<option key="mlink" id="Arrow.Height" value="8.0"/>
+		<option key="mlink" id="Arrow.Raised" value="true"/>
+		<option key="mlink" id="Arrow.Width" value="4.0"/>
+		<option key="mlink" id="Excent" value="30"/>
+		<option key="mlink" id="Trans" value="true"/>
+		<option key="mlink" id="TxtPaintCfg" value="SansSerif,-16777216,10,false,false,0.0,1,1,false"/>
+	</options>
+	<pages-manager next-id="40">
+		<page id="1678282256069" name="Model 1" w="1200.0" h="850.0" mngtype="5">
+			<grf id="0" idx="15" t="node" x="498.0" y="99.0"></grf>
+			<grf id="6" idx="16" t="node" x="286.0" y="131.0"></grf>
+			<grf id="7" idx="17" t="node" x="715.0" y="128.0"></grf>
+			<grf id="12" idx="14" t="link" src="0" dest="6" reverse="false"></grf>
+			<grf id="13" idx="13" t="link" src="0" dest="7" reverse="false"></grf>
+			<grf id="14" idx="12" t="link" src="6" dest="0" reverse="false"></grf>
+			<grf id="15" idx="11" t="link" src="7" dest="0" reverse="false"></grf>
+			<grf id="21" idx="18" t="node" x="505.0" y="224.0"></grf>
+			<grf id="22" idx="19" t="node" x="501.0" y="366.0"></grf>
+			<grf id="23" idx="20" t="node" x="737.0" y="256.0"></grf>
+			<grf id="24" idx="21" t="node" x="278.0" y="256.0"></grf>
+			<grf id="25" idx="10" t="link" src="24" dest="6" reverse="false"></grf>
+			<grf id="26" idx="9" t="link" src="23" dest="7" reverse="false"></grf>
+			<grf id="27" idx="8" t="link" src="21" dest="22" reverse="false"></grf>
+			<grf id="28" idx="7" t="link" src="22" dest="21" reverse="false"></grf>
+			<grf id="29" idx="6" t="link" src="0" dest="21" reverse="false"></grf>
+			<grf id="30" idx="5" t="link" src="21" dest="0" reverse="false"></grf>
+			<grf id="31" idx="4" t="link" src="21" dest="23" reverse="false"></grf>
+			<grf id="32" idx="3" t="link" src="21" dest="24" reverse="false"></grf>
+			<grf id="34" idx="22" t="cou" x="62.0" y="465.0" w="822.0" h="344.0"></grf>
+			<grf id="35" idx="23" t="node" x="634.0" y="326.0"></grf>
+			<grf id="37" idx="2" t="link" src="0" dest="35" reverse="false"></grf>
+			<grf id="38" idx="1" t="link" src="21" dest="35" reverse="false"></grf>
+			<grf id="39" idx="0" t="link" src="35" dest="22" reverse="false"></grf>
+		</page>
+	</pages-manager>
+	<logicals-manager next-id="46">
+		<util  id="38" t="cou" dtitle="true" dgene="true">
+			<courbe-data type="case-analysis" id="0">
+				<courbe-data-param name="leg" value="E2BBbV &#x003A; 4"/>
+				<courbe-data-param name="capath" value="/0"/>
+				<courbe-data-param name="resultpath" value="/30/PROBA/E2BBbV"/>
+				<courbe-data-param name="x" value="0"/>
+				<courbe-data-param name="y" value="1"/>
+				<generic key="Min" name="DLG_COURBE_COURBEDATA_GENE_MIN" val="0.0" class="Cvt.Courbe.GenericValueDouble"/>
+				<generic key="Max" name="DLG_COURBE_COURBEDATA_GENE_MAX" val="0.023445405291897006" class="Cvt.Courbe.GenericValueDouble"/>
+				<generic key="Mean" name="DLG_COURBE_COURBEDATA_GENE_MEAN" val="0.022626032419597448" class="Cvt.Courbe.GenericValueDouble"/>
+			</courbe-data>
+			<style type="line">
+				<style-options>
+					<style-option key="Axes" id="Color" value="BLACK"/>
+					<style-option key="Background" id="Scale" value="Auto"/>
+					<style-option key="Confidence" id="Show" value="false"/>
+					<style-option key="Limit" id="Auto" value="0"/>
+					<style-option key="Limit" id="BeginX" value="0.0"/>
+					<style-option key="Limit" id="BeginY" value="0.0"/>
+					<style-option key="Limit" id="DisplayDiscontinuity" value="2"/>
+					<style-option key="Limit" id="EndX" value="0.0"/>
+					<style-option key="Limit" id="EndY" value="0.0"/>
+					<style-option key="Logarithmic" id="X" value="false"/>
+					<style-option key="Logarithmic" id="Y" value="false"/>
+					<style-option key="Unit" id="X" value="HOUR"/>
+					<style-option key="Unit" id="XUnitDisplay" value="true"/>
+					<style-option key="Unit" id="Y" value="NO_UNIT"/>
+					<style-option key="Unit" id="YUnitDisplay" value="false"/>
+				</style-options>
+				<courbe-options id="0">
+					<courbe-option key="Courbe" id="Color" value="000000"/>
+					<courbe-option key="Courbe" id="Heavy" value="1"/>
+					<courbe-option key="Courbe" id="Point" value="0"/>
+					<courbe-option key="Courbe" id="Show" value="true"/>
+					<courbe-option key="Courbe" id="ShowMean" value="false"/>
+				</courbe-options>
+			</style>
+		</util>
+		<cst  id="15" name="mu" dom="FLOAT" val="0.004"/>
+		<cst  id="33" name="lambda_e" dom="FLOAT" val="1.0E-4"/>
+		<cst  id="34" name="lambda_v" dom="FLOAT" val="1.2E-4"/>
+		<cst  id="35" name="lambda_t" dom="FLOAT" val="4.0E-10"/>
+		<cst  id="36" name="lambda_b" dom="FLOAT" val="4.0E-5"/>
+		<cst  id="43" name="lambda_dcc" dom="FLOAT" val="4.0E-6"/>
+		<cst  id="44" name="lambda_ind" dom="FLOAT" val="3.6E-5"/>
+		<link id="11" num="1" name="Tr1" src="0" dest="6"><trans><lf code="$1$"><arg id="33"/></lf></trans></link>
+		<link id="12" num="2" name="Tr2" src="0" dest="7"><trans><lf code="$1$"><arg id="34"/></lf></trans></link>
+		<link id="13" num="3" name="Tr3" src="6" dest="0"><trans><lf code="$1$"><arg id="15"/></lf></trans></link>
+		<link id="14" num="4" name="Tr4" src="7" dest="0"><trans><lf code="$1$"><arg id="15"/></lf></trans></link>
+		<link id="25" num="5" name="Tr5" src="24" dest="6"><trans><lf code="$1$"><arg id="15"/></lf></trans></link>
+		<link id="26" num="6" name="Tr6" src="23" dest="7"><trans><lf code="$1$"><arg id="15"/></lf></trans></link>
+		<link id="27" num="7" name="Tr7" src="21" dest="22"><trans><lf code="2*$1$\n"><arg id="44"/></lf></trans></link>
+		<link id="28" num="8" name="Tr8" src="22" dest="21"><trans><lf code="$1$"><arg id="15"/></lf></trans></link>
+		<link id="29" num="9" name="Tr9" src="0" dest="21"><trans><lf code="3*$1$"><arg id="44"/></lf></trans></link>
+		<link id="30" num="10" name="Tr10" src="21" dest="0"><trans><lf code="$1$"><arg id="15"/></lf></trans></link>
+		<link id="31" num="11" name="Tr11" src="21" dest="23"><trans><lf code="$1$"><arg id="34"/></lf></trans></link>
+		<link id="32" num="12" name="Tr12" src="21" dest="24"><trans><lf code="$1$"><arg id="33"/></lf></trans></link>
+		<link id="41" num="13" name="Tr13" src="0" dest="39"><trans><lf code="$1$\n"><arg id="43"/></lf></trans></link>
+		<link id="42" num="14" name="Tr14" src="21" dest="39"><trans><lf code="$1$"><arg id="43"/></lf></trans></link>
+		<link id="45" num="15" name="Tr15" src="39" dest="22"><trans><lf code="$1$"><arg id="15"/></lf></trans></link>
+		<node id="0" num="1" name="E3BV" prb="1.0" immed="false" eff="1.0" available="true"/>
+		<node id="6" num="2" name="Eb3BV" prb="0.0" immed="false" eff="0.0"/>
+		<node id="7" num="3" name="E3BVb" prb="0.0" immed="false" eff="0.0"/>
+		<node id="21" num="4" name="E2BBbV" prb="0.0" immed="false" eff="1.0" available="true"/>
+		<node id="22" num="5" name="EB2BbV" prb="0.0" immed="false" eff="0.0"/>
+		<node id="23" num="6" name="E2BBbVb" prb="0.0" immed="false" eff="0.0"/>
+		<node id="24" num="7" name="Eb2BBbV" prb="0.0" immed="false" eff="0.0"/>
+		<node id="39" num="8" name="E3BbV" prb="0.0" immed="false" eff="0.0"/>
+	</logicals-manager>
+	<mediator>
+		<connect grph="39" logic="45"/>
+		<connect grph="38" logic="42"/>
+		<connect grph="37" logic="41"/>
+		<connect grph="32" logic="32"/>
+		<connect grph="31" logic="31"/>
+		<connect grph="30" logic="30"/>
+		<connect grph="29" logic="29"/>
+		<connect grph="28" logic="28"/>
+		<connect grph="27" logic="27"/>
+		<connect grph="26" logic="26"/>
+		<connect grph="25" logic="25"/>
+		<connect grph="15" logic="14"/>
+		<connect grph="14" logic="13"/>
+		<connect grph="13" logic="12"/>
+		<connect grph="12" logic="11"/>
+		<connect grph="0" logic="0"/>
+		<connect grph="6" logic="6"/>
+		<connect grph="7" logic="7"/>
+		<connect grph="21" logic="21"/>
+		<connect grph="22" logic="22"/>
+		<connect grph="23" logic="23"/>
+		<connect grph="24" logic="24"/>
+		<connect grph="34" logic="38"/>
+		<connect grph="35" logic="39"/>
+	</mediator>
+	<printer pageformat="595.275590551181 841.8897637795275 481.88976377952747 728.5039370078739 56.69291338582677 56.69291338582677 0" filename="true" date="true" version="false" border="true" pagenumber="true" firstpagenumber="1">
+		<paint id="2" font="SansSerif" color="-6750208" size="48" italic="true" bold="true" angle="0.7853981633974483" xalign="2" yalign="2"/>
+		<printer-pages selectionmode="0" digin="true">
+		</printer-pages>
+		<printer-files>
+		</printer-files>
+		<printer-options>
+			<printer-option key="Print" id="PageIndex" value="false"/>
+			<printer-option key="Print" id="TOC" value="false"/>
+			<printer-option key="Print" id="TrackModif" value="false"/>
+		</printer-options></printer>
+	<bank displayed="/0">
+		
+	</bank>
+	
+</JaGrif-Markov>
