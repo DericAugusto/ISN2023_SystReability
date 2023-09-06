@@ -1,2 +1,4 @@
-# ISN2023_SystReability
-Material from the course of Systems Dependability at ENSEM - Université de Lorraine.
+## Université de Lorraine - ISN ENSEM
+# Sureté de Fonctionnement
+
+Matériel du cours du S7 - 2èmme année 2023/1. Professeurs : Nicolae Brinzei et Samia Maza.
